@@ -29,8 +29,6 @@ function addDivToGrid(gridSize) {
     for (let index = 0; index < (gridSize * gridSize); index++) {
         
         const element = document.createElement('div')
-        element.style.border = '1px solid #E8E8E8'
-        element.style.cursor = 'pointer'
         element.addEventListener('mouseenter', addColor)
         document.getElementById('gridContainer').appendChild(element)
     }
