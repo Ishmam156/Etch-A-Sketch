@@ -10,7 +10,7 @@ You can check out the webpage [here](https://ishmam156.github.io/Etch-A-Sketch/)
 
 ##### Home Page
 
-![Webpage Screenshot](https://i.imgur.com/W7HCJMB.png)
+![Webpage Screenshot](https://i.imgur.com/CpXi7rS.png)
 
 ## Tech Stack
 

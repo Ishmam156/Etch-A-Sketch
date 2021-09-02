@@ -1,5 +1,4 @@
 let initialGrid = 16
-
 const gridContainer = document.getElementById('gridContainer')
 
 function addColor(event) {
@@ -35,8 +34,6 @@ function addDivToGrid(gridSize) {
     
 }
 
-addDivToGrid(initialGrid)
-
 function resetGrid() {
     
     gridContainer.innerHTML = ''
@@ -49,4 +46,5 @@ function resetGrid() {
     addDivToGrid(userChoice)
 }
 
+addDivToGrid(initialGrid)
 document.getElementById('reset').addEventListener('click', resetGrid)

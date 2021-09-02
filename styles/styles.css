@@ -26,7 +26,6 @@ body {
 }
 
 #gridContainer div {
-  border: 1px dotted #ff449f;
   cursor: pointer;
 }
 
@@ -38,8 +37,16 @@ h1 {
   color: #005f99;
 }
 
+p {
+  font-size: medium;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #005f99;
+}
+
 button {
-  margin-bottom: 25px;
+  margin-bottom: 5px;
   background-color: #ff449f;
   border: none;
   height: 2.5em;
