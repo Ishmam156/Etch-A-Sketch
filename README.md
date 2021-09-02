@@ -4,7 +4,7 @@ A simple JS based sketch-board that adds random colors on mouseover as well as r
 
 ## Live Link
 
-You can check out the webpage [here]():
+You can check out the webpage [here](https://ishmam156.github.io/Etch-A-Sketch/):
 
 ## Screenshots
 
