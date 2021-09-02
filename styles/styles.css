@@ -1,0 +1,36 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightgray;
+}
+
+#mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#gridContainer {
+  border: 5px solid black;
+  display: grid;
+  height: 75vh;
+  width: 75vw;
+}
+
+h1 {
+  font-size: x-large;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+button {
+  margin-bottom: 25px;
+}
